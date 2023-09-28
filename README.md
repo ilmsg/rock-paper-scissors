@@ -3,8 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ตัวอย่างเกม ค้อน-กรรไกร-กรดาษ เป็น pure javascript ที่ตั้งใจจะลองแปลงมาเป็น react
+
 [https://www.rock-paper-scissors-game.com](https://www.rock-paper-scissors-game.com/)
 
+![https://github.com/ilmsg/rock-paper-scissors/blob/main/preview.png?raw=true](https://github.com/ilmsg/rock-paper-scissors/blob/main/preview.png?raw=true)
 
 ## Available Scripts
 
