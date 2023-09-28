@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [https://www.rock-paper-scissors-game.com](https://www.rock-paper-scissors-game.com/)
 
-![https://github.com/ilmsg/rock-paper-scissors/blob/main/preview.png?raw=true](https://github.com/ilmsg/rock-paper-scissors/blob/main/preview.png?raw=true)
+![https://github.com/ilmsg/rock-paper-scissors/blob/main/src/preview.png?raw=true](https://github.com/ilmsg/rock-paper-scissors/blob/main/src/preview.png?raw=true)
 
 ## Available Scripts
 
